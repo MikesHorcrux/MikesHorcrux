@@ -1,8 +1,5 @@
 # Hi there, I'm Michael Van Amburg 👋
 
-![Profile views](https://gpvc.arturio.dev/MikesHorcrux)
-![GitHub followers](https://img.shields.io/github/followers/MikesHorcrux?label=Follow&style=social)
-
 ## About Me
 
 I’m Michael Van Amburg, Director of Engineering, Mobile at RethinkFirst. With a strong passion for iOS development and a knack for leading engineering teams, I strive to create software that makes a difference.
