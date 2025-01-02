@@ -1,38 +1,26 @@
-# Hi there, I'm Michael Van Amburg 👋
+# Y'all, I’m Mike 🛠✨
 
-## About Me
+## Who Am I?  
 
-I’m Michael Van Amburg, Director of Engineering, Mobile at RethinkFirst. With a strong passion for iOS development and a knack for leading engineering teams, I strive to create software that makes a difference.
+I’m Mike—a tech tinkerer, idea wrangler, and certified dad-joke connoisseur. I live for building cool stuff, breaking things to see how they tick, and figuring out how to make ‘em better. If it’s got code, I’m probably in the middle of making it do something it shouldn’t.  
 
-- 🔭 I’m currently working on [Christmasville](https://github.com/MikesHorcrux/Christmasville) - an app designed to bring the magic of Christmas to users through innovative software.
-- 🌟 Building [PausePoints](https://github.com/MikesHorcrux/PausePoints) - a journaling app tailored for individuals with ADHD to help manage their thoughts and routines.
-- 🚀 Skilled in Swift and iOS development.
-- 🎨 Love working on side projects to continuously learn and innovate.
+- 🌙 Building **Lunar Guide**, an app to help people track their habits and uncover the magic in their routines.  
+- 🤖 Experimenting with **AI agents**—because my inbox deserves a smarter assistant than me.  
+- 🔧 Working across **mobile**, **macOS**, and **visionOS**, always with a “what if we tried this?” mindset.  
 
-## Projects
+## My Vibe?  
 
-### Christmasville
-Aiming to build the coolest Christmas app ever, bringing joy and festive spirit to users.
+Think mad scientist meets tattooed cowboy. I’m not here to be perfect; I’m here to build, break, and learn.  
 
-### PausePoints
-Helping people with ADHD by providing a structured journaling experience to improve focus and clarity.
+- 🎨 Tattoos? Oh yeah. My hands are basically a workbench of ink.  
+- 😄 Dad jokes are a lifestyle: **Why don’t programmers like nature? Too many bugs.**  
+- 🚀 Passionate about creating tech that’s useful, a little magical, and fun to mess around with.  
 
-## Skills
+## What I’m Tinkering On  
 
-- **Swift / iOS Development**
-- **Team Leadership**
-- **Project Management**
+- **Lunar Guide**: Your habits, tracked. Your patterns, uncovered. A sleek app designed to make life easier.  
+- **AI Email Wrangler**: A tiny digital genius to tame your inbox and make emailing suck less.  
 
-## Achievements
+## My Motto  
 
-- 📈 Leading the mobile engineering team at RethinkFirst.
-- 🎖 Successfully developed and launched multiple iOS apps.
-
-## Interests
-
-- 💡 Always eager to work on new and exciting projects.
-- 🎄 Passionate about creating software that brings joy and magic to users.
-
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/michael-van-amburg/)
+If it’s cool, I’ll build it. If it’s broken, I’ll fix it. If it’s boring, I’ll make it fun.  
