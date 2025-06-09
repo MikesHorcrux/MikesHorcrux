@@ -4,7 +4,7 @@
 
 I’m Mike—a tech tinkerer, idea wrangler, and certified dad-joke connoisseur. I live for building cool stuff, breaking things to see how they tick, and figuring out how to make ‘em better. If it’s got code, I’m probably in the middle of making it do something it shouldn’t.
 
-- 🌙 Building **Lunar Guide**, an app to help people track their habits and uncover the magic in their routines.  
+- 🌙 Crafting Lunar Guide — a science-driven app that logs cannabis sessions, visualises your personal moon-phase tolerance level, and guides you through research-backed micro-breaks so every dose stays effective and intentional.  
 - 🤖 Experimenting with **AI agents**—because my inbox deserves a smarter assistant than me.  
 - 🛰 Creating **Seraphia**, a macOS focus AI agent that can keep you in the zone (or at least remind you to put down Twitter).  
 - 🔧 Working across **mobile**, **macOS**, **visionOS**, and beyond—always with a “what if we tried this?” mindset.
