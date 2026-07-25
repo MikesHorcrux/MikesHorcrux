@@ -1,29 +1,83 @@
-# Y'all, I’m Mike 🛠✨
+<p align="center">
+  <img src="./assets/brand/profile-hero.svg" alt="" width="100%">
+</p>
 
-## Who Am I?
+<h1 align="center">Mike Van Amburg</h1>
 
-I’m Mike—a tech tinkerer, idea wrangler, and certified dad-joke connoisseur. I live for building cool stuff, breaking things to see how they tick, and figuring out how to make ‘em better. If it’s got code, I’m probably in the middle of making it do something it shouldn’t.
+<p align="center">
+  <strong>Founder of Lunar Moth Studios</strong><br>
+  Feel clearer. Trust yourself. Take the next step.<br>
+  <em>Soft on the person. Useful in the moment.</em>
+</p>
 
-- 🌙 Crafting Lunar Guide — a science-driven app that logs cannabis sessions, visualises your personal moon-phase tolerance level, and guides you through research-backed micro-breaks so every dose stays effective and intentional.  
-- 🤖 Experimenting with **AI agents**—because my inbox deserves a smarter assistant than me.  
-- 🛰 Creating **Seraphia**, a macOS focus AI agent that can keep you in the zone (or at least remind you to put down Twitter).  
-- 🔧 Working across **mobile**, **macOS**, **visionOS**, and beyond—always with a “what if we tried this?” mindset.
+## The work
 
-## My Vibe?
+I build warm, practical apps that help people feel clearer, trust themselves, and take the next useful step.
 
-Think mad scientist meets tattooed cowboy. I’m not here to be perfect; I’m here to build, break, and learn.
+My work keeps returning to the same question:
 
-- 🎨 Tattoos? Oh yeah. My hands are basically an inked workbench.
-- 😄 Dad jokes are a lifestyle: *“Why don’t programmers like nature? Too many bugs.”*  
-- 🚀 Passionate about creating tech that’s useful, a little magical, and fun to mess around with.
+> **How can software help people feel a little more supported in their actual lives?**
 
-## Currently Tinkering On
+After working around mental health, anxiety, autism, fitness, and complex systems, I started **Lunar Moth Studios** to make smaller, warmer answers to that question—character-led apps for clarity, courage, and everyday self-trust.
 
-- **Lunar Guide**: Your habits, tracked. Your patterns, uncovered. A sleek app designed to make life easier.  
-- **AI Email Wrangler**: A tiny digital genius to tame your inbox and make emailing suck less.  
-- **AnotherFuckingNetworkingSDK**: My ironically named open-source networking library (because, hey, sometimes you just gotta have fun with naming).  
-- **Seraphia**: A macOS focus AI agent with a sprinkle of sass—keeping you on task and away from your umpteenth scrolling session.  
+GitHub is where I share the craft underneath those tiny worlds: product experiments, Swift foundations, small tools, and the honest work of making software feel human without pretending it is a human relationship.
 
-## My Motto
+## Meet the companions
 
-If it’s cool, I’ll build it. If it’s broken, I’ll fix it. If it’s boring, I’ll make it fun.
+### BRAM · Courage
+
+<p align="center">
+  <img src="./assets/characters/bram.png" width="320" alt="BRAM, a kind bearded companion in a knitted hat and vest">
+</p>
+
+<p align="center"><strong>One small brave thing a day.</strong></p>
+
+BRAM helps someone practice one small, safe act of courage and build confidence through evidence—not pressure, performance, or a perfect streak.
+
+<p align="center"><em>Confidence comes after you try.</em></p>
+
+### Rosyn · Clarity
+
+<p align="center">
+  <img src="./assets/characters/rosyn.png" width="320" alt="Rosyn, a soft purple companion in an olive beanie and cream hoodie">
+</p>
+
+<p align="center"><strong>Understand your cannabis habits more clearly.</strong></p>
+
+Rosyn helps adults privately notice their cannabis-use patterns and reflect on what is helping—or not helping—without shame or medical promises.
+
+<p align="center"><em>A calmer, more intentional relationship with your own patterns.</em></p>
+
+## What guides the work
+
+- **Support without shame.** The product should meet a person where they are.
+- **A next step, not a lecture.** Small, useful action beats pressure and optimization theater.
+- **Character with honest boundaries.** Warmth matters; pretending software is a person does not.
+- **Technology stays underneath.** AI, Swift, and systems are capabilities—not the reason someone should care.
+- **Care is part of the architecture.** Accessibility, privacy, language, and emotional usability belong in the build from the beginning.
+
+## The public workbench
+
+<p align="center">
+  <img src="./assets/stats/public-repositories.svg" alt="" width="190">
+  <img src="./assets/stats/stars-earned.svg" alt="" width="190">
+  <img src="./assets/stats/followers.svg" alt="" width="190">
+  <img src="./assets/stats/swift-repositories.svg" alt="" width="190">
+</p>
+
+<!-- profile-stats:start -->
+<p align="center"><strong>45 public repositories</strong> · <strong>38 stars on public work</strong> · <strong>17 followers</strong> · <strong>30 Swift repositories</strong></p>
+<!-- profile-stats:end -->
+
+Most of my public work is written in Swift. It includes Apple-platform experiments, practical utilities, and open-source tools such as [`AnotherFuckingNetworkingSDK`](https://github.com/MikesHorcrux/AnotherFuckingNetworkingSDK)—a dependency-free networking layer built around modern Swift concurrency.
+
+The cards above are generated directly from GitHub’s public API and refresh every Monday. No third-party stats service and no invented numbers.
+
+---
+
+<p align="center">
+  <img src="./assets/brand/companion-portal.svg" width="54" alt="">
+  <br>
+  <strong>You do not have to carry this alone.</strong><br>
+  <sub>There is room for your next step.</sub>
+</p>

@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="430" viewBox="0 0 1280 430" role="img" aria-labelledby="title desc">
+  <title id="title">Mike Van Amburg — Feel clearer. Trust yourself. Take the next step.</title>
+  <desc id="desc">A Lunar Moth Studios profile banner using the Companion Portal identity and Moth Garden colors.</desc>
+
+  <defs>
+    <pattern id="paper-dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.1" fill="#35283A" opacity="0.052"/>
+    </pattern>
+    <filter id="soft-shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="11" stdDeviation="17" flood-color="#35283A" flood-opacity="0.14"/>
+    </filter>
+    <clipPath id="frame">
+      <rect width="1280" height="430" rx="28"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1280" height="430" fill="#F5EEE6"/>
+    <rect width="1280" height="430" fill="url(#paper-dots)"/>
+
+    <circle cx="1185" cy="-22" r="205" fill="#9AA68D" opacity="0.34"/>
+    <circle cx="1245" cy="402" r="172" fill="#C88775" opacity="0.25"/>
+    <path d="M888 29 C1012 75 961 174 1058 219 C1146 260 1118 351 1231 403" fill="none" stroke="#9B89A4" stroke-width="3" stroke-linecap="round" stroke-dasharray="4 13" opacity="0.62"/>
+
+    <text x="72" y="138"
+      font-family="Georgia, 'Times New Roman', serif"
+      font-size="63" font-weight="700" fill="#35283A">Feel clearer.</text>
+    <text x="72" y="209"
+      font-family="Georgia, 'Times New Roman', serif"
+      font-size="63" font-weight="700" fill="#35283A">Trust yourself.</text>
+    <text x="72" y="280"
+      font-family="Georgia, 'Times New Roman', serif"
+      font-size="63" font-weight="700" fill="#35283A">Take the next step.</text>
+
+    <path d="M72 312 C242 297 438 313 626 301" fill="none" stroke="#DFBD71" stroke-width="11" stroke-linecap="round" opacity="0.92"/>
+
+    <g filter="url(#soft-shadow)">
+      <circle cx="1065" cy="213" r="137" fill="#F5EEE6" opacity="0.97"/>
+    </g>
+
+    <!-- Exact Companion Portal geometry from the approved Lunar Moth Studios identity. -->
+    <g transform="translate(1065 213) scale(0.264) translate(-500 -500) translate(-78.125 -53.223)">
+      <path fill="#35283A" d="M495 895
+        C421 903 326 899 286 844
+        C251 797 254 711 260 612
+        C268 486 280 402 340 335
+        C400 269 494 214 570 208
+        C623 204 656 222 669 254
+        C684 292 660 330 617 371
+        C545 440 483 514 466 601
+        C446 702 469 786 508 868
+        C518 888 513 893 495 895 Z"/>
+      <path fill="#35283A" d="M624 895
+        C688 903 790 903 845 860
+        C890 825 900 770 900 693
+        L900 514
+        C900 439 857 394 798 371
+        C733 346 664 345 631 376
+        C596 409 608 449 654 482
+        C724 533 759 592 754 668
+        C750 737 725 799 695 856
+        C681 884 691 895 714 897 Z"/>
+      <circle cx="583" cy="710" r="66" fill="#DFBD71"/>
+    </g>
+
+  </g>
+
+  <rect x="1.5" y="1.5" width="1277" height="427" rx="26.5" fill="none" stroke="#35283A" stroke-width="3" opacity="0.18"/>
+</svg>
